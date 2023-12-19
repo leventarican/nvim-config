@@ -1,5 +1,5 @@
 require("developer")
-print("# init")
+--print("# init")
 
 -- use color molokai; location color/
 -- https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim
